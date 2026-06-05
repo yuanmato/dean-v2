@@ -1,0 +1,5 @@
+# Ross Toolkit — GPT/OpenAI version dependencies
+openai>=1.88.0        # OpenAI SDK; uses Responses API with hosted web search
+streamlit>=1.35       # deployable visual app
+pandas>=2.0           # tables, matrix view, CSV handling
+openpyxl>=3.1         # read/write .xlsx inputs
